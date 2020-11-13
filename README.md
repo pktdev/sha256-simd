@@ -78,6 +78,7 @@ Below is the speed in MB/s for a single core (ranked fast to slow) for blocks la
 | Processor                         | SIMD    | Speed (MB/s) |
 | --------------------------------- | ------- | ------------:|
 | 3.0 GHz Intel Xeon Platinum 8124M | AVX512  |         3498 |
+| 3.8 GHz AMD Ryzen 9 3900X         | SHA Ext |         2177 |
 | 3.7 GHz AMD Ryzen 7 2700X         | SHA Ext |         1979 |
 | 1.2 GHz ARM Cortex-A53            | ARM64   |          638 |
 | 3.0 GHz Intel Xeon Platinum 8124M | AVX2    |          449 |
